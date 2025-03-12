@@ -1,4 +1,4 @@
-# Youtube Distraction Blocker Extension
+# Youtube Detoxifier Chrome Extension
 
 ## Installation
 
